@@ -19,8 +19,9 @@ See repositoorium on **elav dokument** — mitte lõpetatud õpik, vaid kasvav k
 ```
 /oppekava      → Ametlikud kursuse kaardid koos valemite ja õpitulemustega
 /teemad        → Sisuline materjal: teooria, ülesanded, väärarusaamad
-/eksamid       → Varasemad eksamid ja näidisvastused
-/opetajate-arhiiv → Õpetajate isiklikud materjalid
+/olumpiaad     → Olümpiaadi juhend, ettevalmistus, näidisülesanded
+/opetajale     → Tunni ülesehitus, õppevahendid ja ressursid
+/eksamid       → Varasemad eksamid ja näidisvastused (tulemas)
 /agendid       → AI-agentide juhendid (tulevikus)
 ```
 
@@ -28,16 +29,18 @@ See repositoorium on **elav dokument** — mitte lõpetatud õpik, vaid kasvav k
 
 | Aste | Kursused | Staatus |
 |------|----------|---------|
-| Põhikool 8. klass | Valgusõpetus, Mehaanika | 🚧 Ehitamisel |
-| Põhikool 9. klass | Soojusõpetus, Elektriõpetus | 🚧 Ehitamisel |
-| Gümnaasium F1 | Kinemaatika | ✅ Alustatud |
-| Gümnaasium F2 | Ringliikumine. Dünaamika | ⬜ Puudub |
-| Gümnaasium F3 | Staatika. Jäävusseadused | ⬜ Puudub |
-| Gümnaasium F4 | Termodünaamika | ⬜ Puudub |
-| Gümnaasium F5 | Elektrostaatika. Alalisvool | ⬜ Puudub |
-| Gümnaasium F6 | Elektromagnetism | ⬜ Puudub |
-| Gümnaasium F7 | Võnkumised ja lained. Optika | ⬜ Puudub |
-| Gümnaasium F8 | Kvantoptika. Tuumafüüsika | ⬜ Puudub |
+| Põhikool 8. klass | Valgusõpetus, Mehaanika | ✅ Kaart + teooria |
+| Põhikool 9. klass | Soojusõpetus, Elektriõpetus | ✅ Kaart + teooria |
+| Gümnaasium F1 | Kinemaatika | ✅ Kaart + teooria |
+| Gümnaasium F2 | Ringliikumine. Dünaamika | ✅ Kaart + teooria |
+| Gümnaasium F3 | Staatika. Jäävusseadused | ✅ Kaart + teooria |
+| Gümnaasium F4 | Termodünaamika | ✅ Kaart + teooria |
+| Gümnaasium F5 | Elektrostaatika. Alalisvool | ✅ Kaart + teooria |
+| Gümnaasium F6 | Elektromagnetism | ✅ Kaart + teooria |
+| Gümnaasium F7–F8 | Võnkumised, Optika, Kvantfüüsika | ✅ Kaart + teooria |
+| Valikursused F9–F15 | Jäävusseadused kuni olümpiaadid | ✅ Kaart |
+| **Olümpiaad** | Juhend, ettevalmistus, näidisülesanded | ✅ Valmis |
+| **Õpetajale** | Tunni struktuur, õppevahendid | ✅ Valmis |
 
 ---
 
