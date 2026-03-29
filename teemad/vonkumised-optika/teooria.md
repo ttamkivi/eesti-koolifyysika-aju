@@ -89,5 +89,24 @@ $$d\sin\alpha = k\lambda$$
 
 ---
 
+## Näidisülesanne
+
+**Küsimus:** Difraktsioonvõrel on piluvahe $d = 0{,}01$ mm. Monokromaatne valgus langeb võrele risti. Esimest järku maksimum tekib nurga $\alpha = 3{,}6°$ all. Leia valguse lainepikkus ja määra valguse värv.
+
+**Lahendus:**
+
+Difraktsioonvõre valem:
+$$d\sin\alpha = k\lambda$$
+
+Esimest järku maksimum ($k = 1$):
+$$\lambda = \frac{d\sin\alpha}{k} = \frac{0{,}01 \times 10^{-3} \cdot \sin 3{,}6°}{1}$$
+
+$$\lambda = \frac{1 \times 10^{-5} \cdot 0{,}0628}{1} = 6{,}28 \times 10^{-7} \text{ m} = 628 \text{ nm}$$
+
+**Vastus:** $\lambda = 628$ nm — see vastab oranžile-punasele valgusele.
+
+---
+
 ## Seotud materjalid
-- [Kursuse kaart F7](../../oppekava/gymnaasium-F7-F8.md)
+- [Kursuse kaart F7–F8](../../oppekava/gymnaasium-F7-F8.md)
+- [Põhikooli valgusõpetus](../valgusopetus/teooria.md)
