@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>elektromagnetism on Eesti Koolifüüsika Aju</title><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektromagnetism/</link><description>Recent content in elektromagnetism on Eesti Koolifüüsika Aju</description><generator>Hugo</generator><language>et</language><atom:link href="https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektromagnetism/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektromagnetism/teooria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektromagnetism/teooria/</guid><description>&lt;h1 id="f6--elektromagnetism"&gt;F6 — Elektromagnetism&lt;a class="anchor" href="#f6--elektromagnetism"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Kursus:&lt;/strong&gt; F6 | &lt;strong&gt;Klass:&lt;/strong&gt; 11. klass | &lt;strong&gt;Eeldused:&lt;/strong&gt; F5 (Elektrostaatika ja vool)&lt;/p&gt;
+&lt;h2 id="1-magnetväli-ja-selle-kirjeldamine"&gt;1. Magnetväli ja selle kirjeldamine&lt;a class="anchor" href="#1-magnetv%c3%a4li-ja-selle-kirjeldamine"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Magnetväli tekib liikuvate laengute tõttu. Püsimagneti juures on magnetväli ka statsionaarsete aatomite siseselt olevate elektronide tõttu.&lt;/p&gt;
+&lt;p&gt;Magnetvälja tugevust kirjeldab &lt;strong&gt;magnetinduktsioon&lt;/strong&gt; $B$ (ühik tesla, T). Magnetvälja suunda näitavad magnetvälja jooned, mis väljuvad N-pooluselt ja sisenevad S-poolusele.&lt;/p&gt;
+&lt;p&gt;Magnetvälja mõju voolu kandvale juhile:&lt;/p&gt;
+$$F = BIl\sin\alpha$$&lt;p&gt;kus:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$F$ — jõud (N)&lt;/li&gt;
+&lt;li&gt;$B$ — magnetinduktsioon (T)&lt;/li&gt;
+&lt;li&gt;$I$ — voolu tugevus (A)&lt;/li&gt;
+&lt;li&gt;$l$ — juhi pikkus magnetvälis (m)&lt;/li&gt;
+&lt;li&gt;$\alpha$ — nurk juhi ja magnetvälja suuna vahel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Jõu suund&lt;/strong&gt; määratakse vasaku käe reegliga: pöial näitab voolu suunda, sõrmed magnetvälja suunda, peopesa näitab jõu suunda.&lt;/p&gt;</description></item><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektromagnetism/ulesanded/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektromagnetism/ulesanded/</guid><description>&lt;h1 id="f6-elektromagnetism--harjutusülesanded"&gt;F6 Elektromagnetism — Harjutusülesanded&lt;a class="anchor" href="#f6-elektromagnetism--harjutus%c3%bclesanded"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;10 ülesannet kasvava raskusega. Iga ülesanne sisaldab täislahendust ja hindamisskeemi.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+&lt;h2 id="ülesanne-1--kerge"&gt;Ülesanne 1 ⭐ (kerge)&lt;a class="anchor" href="#%c3%bclesanne-1--kerge"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Püstitus:&lt;/strong&gt; Sirge juhe, milles voolab vool I = 10 A, asetseb magnetväljas B = 0,5 T risti väljajoontega. Juhe on 20 cm pikk. Leida Ampère&amp;rsquo;i jõud.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lahendus:&lt;/strong&gt;
+Ampère&amp;rsquo;i jõud:
+&lt;/p&gt;
+$$F = BIl$$&lt;p&gt;Kus:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;B = 0,5 T&lt;/li&gt;
+&lt;li&gt;I = 10 A&lt;/li&gt;
+&lt;li&gt;l = 0,2 m (20 cm teisendatud meetriteks)&lt;/li&gt;
+&lt;/ul&gt;
+$$F = 0.5 \times 10 \times 0.2 = 1 \text{ N}$$&lt;p&gt;&lt;strong&gt;Vastus:&lt;/strong&gt; 1 N&lt;/p&gt;</description></item></channel></rss>

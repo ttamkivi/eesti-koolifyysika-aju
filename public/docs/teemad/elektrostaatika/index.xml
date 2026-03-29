@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>elektrostaatika on Eesti Koolifüüsika Aju</title><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektrostaatika/</link><description>Recent content in elektrostaatika on Eesti Koolifüüsika Aju</description><generator>Hugo</generator><language>et</language><atom:link href="https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektrostaatika/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektrostaatika/teooria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektrostaatika/teooria/</guid><description>&lt;h1 id="f5--elektrostaatika-alalisvoolu-seadused"&gt;F5 — Elektrostaatika. Alalisvoolu seadused&lt;a class="anchor" href="#f5--elektrostaatika-alalisvoolu-seadused"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Kursus:&lt;/strong&gt; F5
+&lt;strong&gt;Klass:&lt;/strong&gt; 11. klass
+&lt;strong&gt;Eeldus:&lt;/strong&gt; F2&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-elektrilaeng-ja-coulombi-seadus"&gt;1. Elektrilaeng ja Coulomb&amp;rsquo;i seadus&lt;a class="anchor" href="#1-elektrilaeng-ja-coulombi-seadus"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Elektrilaeng&lt;/strong&gt; $q$ on füüsikaline suurus, mis iseloomustab aine omadust osaleda elektromagnetilises vastasmõjus.&lt;/p&gt;
+&lt;p&gt;Elektrilaengul on kaks liiki:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Positiivne laeng&lt;/strong&gt; (+) — näiteks prootonitel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Negatiivne laeng&lt;/strong&gt; (−) — näiteks elektronidel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Laengu ühik SI-süsteemis: &lt;strong&gt;kulon&lt;/strong&gt; (C).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coulomb&amp;rsquo;i seadus&lt;/strong&gt; väidab, et kahe punktlaengu vaheline jõud on võrdeline nende laengute korrutisega ja pöördvõrdeline nendevahelise kauguse ruuduga:&lt;/p&gt;
+$$F = k\frac{q_1 q_2}{r^2}$$&lt;p&gt;kus:&lt;/p&gt;</description></item><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektrostaatika/ulesanded/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/elektrostaatika/ulesanded/</guid><description>&lt;h1 id="f5-elektrostaatika-ja-alalisvool--harjutusülesanded"&gt;F5 Elektrostaatika ja alalisvool — Harjutusülesanded&lt;a class="anchor" href="#f5-elektrostaatika-ja-alalisvool--harjutus%c3%bclesanded"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;10 ülesannet kasvava raskusega. Iga ülesanne sisaldab täislahendust ja hindamisskeemi.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+&lt;h2 id="ülesanne-1--kerge"&gt;Ülesanne 1 ⭐ (kerge)&lt;a class="anchor" href="#%c3%bclesanne-1--kerge"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Püstitus:&lt;/strong&gt; Kaks punktlaengut: q₁ = 2 μC ja q₂ = 3 μC asuvad üksteisest 20 cm kaugusel. Leida Coulombi jõud nende vahel. (k = 9 × 10⁹ N·m²/C²)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lahendus:&lt;/strong&gt;
+Coulombi seadus:
+&lt;/p&gt;
+$$F = k \frac{q_1 q_2}{r^2}$$&lt;p&gt;Ühikud: r = 0,2 m; q₁ = 2 × 10⁻⁶ C; q₂ = 3 × 10⁻⁶ C&lt;/p&gt;</description></item></channel></rss>

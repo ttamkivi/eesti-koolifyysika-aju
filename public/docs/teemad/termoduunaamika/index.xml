@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>termoduunaamika on Eesti Koolifüüsika Aju</title><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/termoduunaamika/</link><description>Recent content in termoduunaamika on Eesti Koolifüüsika Aju</description><generator>Hugo</generator><language>et</language><atom:link href="https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/termoduunaamika/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/termoduunaamika/teooria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/termoduunaamika/teooria/</guid><description>&lt;h1 id="f4--termodünaamika-aine-ehitus-faasisiirded"&gt;F4 — Termodünaamika. Aine ehitus. Faasisiirded&lt;a class="anchor" href="#f4--termod%c3%bcnaamika-aine-ehitus-faasisiirded"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Kursus:&lt;/strong&gt; F4
+&lt;strong&gt;Klass:&lt;/strong&gt; 11. klass
+&lt;strong&gt;Eeldus:&lt;/strong&gt; F3&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-termodünaamika-i-seadus"&gt;1. Termodünaamika I seadus&lt;a class="anchor" href="#1-termod%c3%bcnaamika-i-seadus"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Termodünaamika esimene seadus väidab, et süsteemi siseenergia muutus võrdub süsteemile antud soojusenergia ja süsteemi poolt tehtud töö vahega.&lt;/p&gt;
+$$Q = \Delta U + A$$&lt;p&gt;kus:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$Q$ — soojushulk, mida süsteem saab (J)&lt;/li&gt;
+&lt;li&gt;$\Delta U$ — siseenergia muutus (J)&lt;/li&gt;
+&lt;li&gt;$A$ — süsteemi poolt tehtud töö (J)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ideaalse gaasi siseenergia on võrdeline selle temperatuuriga:&lt;/p&gt;
+$$\Delta U = \frac{3}{2}\nu R\Delta T$$&lt;p&gt;kus:&lt;/p&gt;</description></item><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/termoduunaamika/ulesanded/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/termoduunaamika/ulesanded/</guid><description>&lt;h1 id="f4-termodünaamika--harjutusülesanded"&gt;F4 Termodünaamika — Harjutusülesanded&lt;a class="anchor" href="#f4-termod%c3%bcnaamika--harjutus%c3%bclesanded"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;10 ülesannet kasvava raskusega. Iga ülesanne sisaldab täislahendust ja hindamisskeemi.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+&lt;h2 id="ülesanne-1--kerge"&gt;Ülesanne 1 ⭐ (kerge)&lt;a class="anchor" href="#%c3%bclesanne-1--kerge"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Püstitus:&lt;/strong&gt; Ideaalse gaasi mooli arv on 2, rõhk 100 kPa ja ruumala 50 L. Leida gaasikonstandiga temperatuur. Gaasikonstand R = 8,314 J/(mol·K).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lahendus:&lt;/strong&gt;
+Ideaalse gaasi võrrand:
+&lt;/p&gt;
+$$pV = nRT$$&lt;p&gt;Temperatuur:
+&lt;/p&gt;
+$$T = \frac{pV}{nR}$$&lt;p&gt;Ühikute teisendamine: V = 50 L = 0,05 m³, p = 100 kPa = 100000 Pa&lt;/p&gt;
+$$T = \frac{100000 \cdot 0.05}{2 \cdot 8.314} = \frac{5000}{16.628} \approx 301 \text{ K}$$&lt;p&gt;&lt;strong&gt;Vastus:&lt;/strong&gt; T ≈ 301 K (≈ 28°C)&lt;/p&gt;</description></item></channel></rss>

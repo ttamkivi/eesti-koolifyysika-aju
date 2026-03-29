@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>staatika jaavus on Eesti Koolifüüsika Aju</title><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/staatika-jaavus/</link><description>Recent content in staatika jaavus on Eesti Koolifüüsika Aju</description><generator>Hugo</generator><language>et</language><atom:link href="https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/staatika-jaavus/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/staatika-jaavus/teooria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/staatika-jaavus/teooria/</guid><description>&lt;h1 id="f3--staatika-elemendid-jäävusseadused-molekulaarfüüsika-alused"&gt;F3 — Staatika elemendid. Jäävusseadused. Molekulaarfüüsika alused&lt;a class="anchor" href="#f3--staatika-elemendid-j%c3%a4%c3%a4vusseadused-molekulaarf%c3%bc%c3%bcsika-alused"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Kursus:&lt;/strong&gt; F3
+&lt;strong&gt;Klass:&lt;/strong&gt; 10. klass
+&lt;strong&gt;Eeldused:&lt;/strong&gt; F1, F2&lt;/p&gt;
+&lt;h2 id="1-staatika-elemendid"&gt;1. Staatika elemendid&lt;a class="anchor" href="#1-staatika-elemendid"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Staatika on füüsika haru, mis uurib jõudude tasakaalu ja kehade tasakaaluolekut.&lt;/p&gt;
+&lt;h3 id="11-raskuskese"&gt;1.1 Raskuskese&lt;a class="anchor" href="#11-raskuskese"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Raskuskese on punkt, millele võib lugeda rakendatuks keha raskusjõudu. Sümmeetriliste kehade puhul asub raskuskese keha geomeetrilises keskpunktis.&lt;/p&gt;
+&lt;h3 id="12-jõumoment"&gt;1.2 Jõumoment&lt;a class="anchor" href="#12-j%c3%b5umoment"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Jõumoment kirjeldab jõu pööramisvõimet teatud punkti (pöörlemistsentri) suhtes.&lt;/p&gt;
+$$M = Fd$$&lt;p&gt;kus $F$ on jõu suurus ja $d$ on jõu õla pikkus (perpendikular jõu joonest pöörlemiskeskuseni).&lt;/p&gt;</description></item><item><title/><link>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/staatika-jaavus/ulesanded/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ttamkivi.github.io/eesti-koolifyysika-aju/docs/teemad/staatika-jaavus/ulesanded/</guid><description>&lt;h1 id="f3-staatika-ja-jäävusseadused--harjutusülesanded"&gt;F3 Staatika ja jäävusseadused — Harjutusülesanded&lt;a class="anchor" href="#f3-staatika-ja-j%c3%a4%c3%a4vusseadused--harjutus%c3%bclesanded"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;10 ülesannet kasvava raskusega. Iga ülesanne sisaldab täislahendust ja hindamisskeemi.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+&lt;h2 id="ülesanne-1--kerge"&gt;Ülesanne 1 ⭐ (kerge)&lt;a class="anchor" href="#%c3%bclesanne-1--kerge"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Püstitus:&lt;/strong&gt; Kast massiga 10 kg asetseb horisontaalsel lauaplaadil. Leida normaaljõud ja keha kaal. (g = 10 m/s²)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lahendus:&lt;/strong&gt;
+Kui keha ei kiirendu vertikaalselt, siis normaaljõud võrdub raskusjõuga:
+&lt;/p&gt;
+$$N = F_g = mg = 10 \cdot 10 = 100 \text{ N}$$&lt;p&gt;Keha kaal (näilik raskusjõud):
+&lt;/p&gt;
+$$P = 100 \text{ N}$$&lt;p&gt;&lt;strong&gt;Vastus:&lt;/strong&gt; N = 100 N; P = 100 N&lt;/p&gt;</description></item></channel></rss>
