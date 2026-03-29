@@ -1,0 +1,4 @@
+---
+title: "elektrostaatika"
+bookCollapseSection: true
+---

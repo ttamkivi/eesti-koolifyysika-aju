@@ -1,0 +1,4 @@
+---
+title: "elektromagnetism"
+bookCollapseSection: true
+---

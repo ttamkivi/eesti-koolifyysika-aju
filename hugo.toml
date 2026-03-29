@@ -1,0 +1,28 @@
+baseURL = 'https://ttamkivi.github.io/eesti-koolifyysika-aju/'
+languageCode = 'et'
+title = 'Eesti Koolifüüsika Aju'
+theme = 'hugo-book'
+
+[params]
+  BookRepo = 'https://github.com/ttamkivi/eesti-koolifyysika-aju'
+  BookEditPath = 'edit/main/'
+  BookDateFormat = '2. January 2006'
+  BookSearch = true
+  BookMenuBundle = '/menu'
+  BookSection = 'docs'
+  BookToC = true
+  BookComments = false
+  BookLogo = '/images/logo.png'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.goldmark.extensions]
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['$$', '$$']]
+        inline = [['$', '$']]
+
+[menu]

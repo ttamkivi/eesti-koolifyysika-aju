@@ -1,6 +1,6 @@
-# Eesti Füüsika Aju 🇪🇪
+# Eesti Koolifüüsika Aju 🇪🇪
 
-Eesti üldhariduskoolide füüsika **tsentraliseeritud teadmistebaas** — üks koht, kus hoitakse õppekava, teooriaid, ülesandeid, praktiliste tööde juhendeid ja õpetajate arhiivi.
+Avatud lähtekoodiga füüsika teadmistebaas Eesti koolidele. Katab täieliku õppekava 8.–12. klassini — valemid, teooria, harjutusülesanded, eksamiülesanded ja AI-agendid personaalseks õppimiseks.
 
 ---
 
@@ -17,30 +17,34 @@ See repositoorium on **elav dokument** — mitte lõpetatud õpik, vaid kasvav k
 ## Struktuur
 
 ```
-/oppekava      → Ametlikud kursuse kaardid koos valemite ja õpitulemustega
-/teemad        → Sisuline materjal: teooria, ülesanded, väärarusaamad
-/olumpiaad     → Olümpiaadi juhend, ettevalmistus, näidisülesanded
-/opetajale     → Tunni ülesehitus, õppevahendid ja ressursid
-/eksamid       → Varasemad eksamid ja näidisvastused (tulemas)
-/agendid       → AI-agentide juhendid (tulevikus)
+/oppekava      → 14 kursuse kaarti koos valemite ja õpitulemustega
+/teemad        → 12 teooria selgitust + 12 ülesannete komplekti (120 ülesannet)
+/eksamid       → 55 eksamiülesannet teemade kaupa + eksami struktuur
+/olumpiaad     → Olümpiaadi juhend, ettevalmistus, 5 näidisülesannet
+/opetajale     → 45-min tunni mall + õppevahendid 12 teema jaoks
+/agendid       → 3 AI-agenti: tuutor, ülesannete generaator, tunni planeerija
+/content       → Hugo veebisaidi sisu (GitHub Pages)
 ```
 
 ## Õppekava kaetus
 
 | Aste | Kursused | Staatus |
 |------|----------|---------|
-| Põhikool 8. klass | Valgusõpetus, Mehaanika | ✅ Kaart + teooria |
-| Põhikool 9. klass | Soojusõpetus, Elektriõpetus | ✅ Kaart + teooria |
-| Gümnaasium F1 | Kinemaatika | ✅ Kaart + teooria |
-| Gümnaasium F2 | Ringliikumine. Dünaamika | ✅ Kaart + teooria |
-| Gümnaasium F3 | Staatika. Jäävusseadused | ✅ Kaart + teooria |
-| Gümnaasium F4 | Termodünaamika | ✅ Kaart + teooria |
-| Gümnaasium F5 | Elektrostaatika. Alalisvool | ✅ Kaart + teooria |
-| Gümnaasium F6 | Elektromagnetism | ✅ Kaart + teooria |
-| Gümnaasium F7–F8 | Võnkumised, Optika, Kvantfüüsika | ✅ Kaart + teooria |
+| Põhikool 8. klass | Valgusõpetus, Mehaanika | ✅ Kaart + teooria + ülesanded |
+| Põhikool 9. klass | Soojusõpetus, Elektriõpetus | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F1 | Kinemaatika | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F2 | Ringliikumine. Dünaamika | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F3 | Staatika. Jäävusseadused | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F4 | Termodünaamika | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F5 | Elektrostaatika. Alalisvool | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F6 | Elektromagnetism | ✅ Kaart + teooria + ülesanded |
+| Gümnaasium F7–F8 | Võnkumised, Optika, Kvantfüüsika | ✅ Kaart + teooria + ülesanded |
 | Valikursused F9–F15 | Jäävusseadused kuni olümpiaadid | ✅ Kaart |
+| **Eksamid** | 55 ülesannet 5 teemas + eksami struktuur | ✅ Valmis |
 | **Olümpiaad** | Juhend, ettevalmistus, näidisülesanded | ✅ Valmis |
 | **Õpetajale** | Tunni struktuur, õppevahendid | ✅ Valmis |
+| **AI-agendid** | Tuutor, ülesannete generaator, tunni planeerija | ✅ Valmis |
+| **Veebisait** | Hugo + GitHub Pages + KaTeX | ✅ Seadistatud |
 
 ---
 

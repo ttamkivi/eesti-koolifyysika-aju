@@ -1,0 +1,4 @@
+---
+title: "kinemaatika"
+bookCollapseSection: true
+---
