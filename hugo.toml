@@ -12,7 +12,7 @@ theme = 'hugo-book'
   BookSection = 'docs'
   BookToC = true
   BookComments = false
-  BookLogo = '/images/logo.png'
+  BookLogo = '/images/logo.svg'
 
 [markup]
   [markup.goldmark]

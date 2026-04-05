@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <!-- Atom icon -->
+  <g transform="translate(25,25)">
+    <!-- Nucleus -->
+    <circle cx="0" cy="0" r="4" fill="#4f86c6"/>
+    <!-- Electron orbits -->
+    <ellipse cx="0" cy="0" rx="16" ry="7" fill="none" stroke="#4f86c6" stroke-width="1.5" transform="rotate(0)"/>
+    <ellipse cx="0" cy="0" rx="16" ry="7" fill="none" stroke="#4f86c6" stroke-width="1.5" transform="rotate(60)"/>
+    <ellipse cx="0" cy="0" rx="16" ry="7" fill="none" stroke="#4f86c6" stroke-width="1.5" transform="rotate(120)"/>
+    <!-- Electrons -->
+    <circle cx="16" cy="0" r="2.5" fill="#e06c00"/>
+    <circle cx="-8" cy="13.9" r="2.5" fill="#e06c00"/>
+    <circle cx="-8" cy="-13.9" r="2.5" fill="#e06c00"/>
+  </g>
+  <!-- Text -->
+  <text x="55" y="20" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#1a1a2e">Eesti Koolifüüsika</text>
+  <text x="55" y="38" font-family="Georgia, serif" font-size="13" fill="#4f86c6">⚛ Aju</text>
+</svg>
